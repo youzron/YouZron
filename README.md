@@ -1,6 +1,6 @@
 <img align="center" alt="Coding" width="900" src="https://media.giphy.com/media/Mvf83YY0kwKqur3jmq/giphy.gif">
 <h1 align="center">Hi 👋, I'm Uzair </h1>
-<h3 align="center">A Computer Science Graduate from Pakistan. Currently employed in NOC DataCore :D</h3>
+<h3 align="center">A Computer Science Graduate from Pakistan. Currently working in NOC DataCore Department :D</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youzron&label=Profile%20views&color=0e75b6&style=flat" alt="youzron" /> </p>
 
